@@ -1,0 +1,5 @@
+Orange,1.5
+Apple,0.75
+Banana,0.50
+Peach,0.75
+Lemon,0.60
